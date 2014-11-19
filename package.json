@@ -1,0 +1,12 @@
+{
+	"name": "videojs-vimeo",
+	"description": "Support Vimeo source for Video.js",
+	"version": "0.0.1",
+	"contributors": [{
+		"name": "Benoit Tremblay"
+	}],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/edpuzzle/videojs-vimeo"
+	}
+}
